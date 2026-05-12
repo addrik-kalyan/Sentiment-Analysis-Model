@@ -49,6 +49,3 @@ Output:
 - Try advanced models such as XGBoost or Neural Networks
 - Add support for multi-class sentiment classification
 - Deploy as a web application using Flask or Streamlit
-
-## Author
-Addrik Kalyan X

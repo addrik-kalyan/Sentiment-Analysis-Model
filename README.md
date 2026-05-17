@@ -122,6 +122,9 @@ jupyter notebook
 
 ## Sample Outputs
 
+<img width="1297" height="245" alt="Screenshot 2026-05-17 095646" src="https://github.com/user-attachments/assets/b2ac20df-457c-4439-aa20-20ca96831e8d" />
+
+
 <img width="668" height="497" alt="Screenshot 2026-05-17 095534" src="https://github.com/user-attachments/assets/4dbc130d-939f-4b6b-bc96-c7823f03c03f" />
 
 

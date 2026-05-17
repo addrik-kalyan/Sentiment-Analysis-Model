@@ -122,15 +122,8 @@ jupyter notebook
 
 ## Sample Outputs
 
-Add screenshots of your visualizations or prediction results here.
+<img width="668" height="497" alt="Screenshot 2026-05-17 095534" src="https://github.com/user-attachments/assets/4dbc130d-939f-4b6b-bc96-c7823f03c03f" />
 
-Example:
-
-```markdown
-![Sentiment Distribution](images/sentiment_chart.png)
-```
-
----
 
 ## Future Improvements
 
